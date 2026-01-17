@@ -9,5 +9,5 @@ Re = 5.0 × 10^3 ~ 1.0 × 10^4 あたりを想定して生成した．
 
 飛行ロボットコンテスト特化の翼型．
 
-低レイノルズ数翼型の設計に関しては，Selig氏のノートが非常に参考になるため，参考にするとよいかもしれない．
-https://m-selig.ae.illinois.edu/pubs/Selig-2003-VKI-LRN-Airfoil-Design-Lecture-Series.pdf
+低レイノルズ数翼型の設計に関しては，Selig氏の講義ノートが非常に参考になるため，参考にするとよいかもしれない．
+https://m-selig.ae.illinois.edu/pubs/
